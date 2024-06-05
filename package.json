@@ -1,0 +1,11 @@
+{
+  "name": "auth-system",
+  "version": "1.0.0",
+  "description": "Basic authorization system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranesh",
+  "license": "ISC"
+}
